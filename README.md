@@ -13,4 +13,4 @@
 7. Internal and external page navigations
 8. Input tags
 
-To see the Live Demo, go to: [Live Demo](https://excelr-vijay-excelr.github.io/coffee-junkie/)
+To see the Live Demo, go to: [Live Demo](https://excelr-vijay-excelr.github.io/coffee-junkie/){:target="_blank"}
