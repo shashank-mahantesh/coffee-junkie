@@ -1,6 +1,6 @@
 # Welcome to coffee-Junkie Project
 
-## Technologeies Used
+## Technologies Used
 - HTML
 
 ## HTML Concepts:
@@ -12,3 +12,5 @@
 6. Lists
 7. Internal and external page navigations
 8. Input tags
+
+To see the Live Demo, go to: [Live Demo](https://excelr-vijay-excelr.github.io/coffee-junkie/)
